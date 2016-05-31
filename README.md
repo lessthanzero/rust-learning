@@ -6,5 +6,5 @@ Exercises will be irregular, that's for sure.
 
 ## Main resources  
 
-- (Rust by Example)[http://rustbyexample.com/]  
-- (Official Docs)[https://doc.rust-lang.org/book]  
+- [Rust by Example](http://rustbyexample.com/)  
+- [Official Docs](https://doc.rust-lang.org/book)  
